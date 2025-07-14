@@ -48,6 +48,10 @@ Communication between them is done through `REQUEST`, `INFORM`, and `RESULT` mes
 - **IDE:** NetBeans
 
 ---
+## 📄 Documentation
+Detailed documentation is located in the docs/ folder.
+
+---
 
 ## 🧑‍💻 Autor
 
